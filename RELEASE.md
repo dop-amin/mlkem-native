@@ -1,4 +1,6 @@
+[//]: # (Copyright (c) 2024-2025 The mlkem-native project authors)
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
 mlkem-native v1.0.0-beta
 ==================
 

@@ -1,3 +1,4 @@
+[//]: # (Copyright (c) 2024-2025 The mlkem-native project authors)
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
 This directory contains the ACVP test vectors from [^ACVP_Server], versions v1.1.0.36 and v1.1.0.38. See [^ACVP_Spec] for the

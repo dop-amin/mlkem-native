@@ -1,3 +1,4 @@
+[//]: # (Copyright (c) 2024-2025 The mlkem-native project authors)
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
 This directory contains various development and test scripts for mlkem-native.

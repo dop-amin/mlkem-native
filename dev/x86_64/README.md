@@ -1,3 +1,4 @@
+[//]: # (Copyright (c) 2024-2025 The mlkem-native project authors)
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
 This directory contains the native x86_64 arithmetic backend for ML-KEM provided by

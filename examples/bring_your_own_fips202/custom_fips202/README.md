@@ -1,3 +1,4 @@
+[//]: # (Copyright (c) 2024-2025 The mlkem-native project authors)
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
 # Custom FIPS-202 based on tinySHA3

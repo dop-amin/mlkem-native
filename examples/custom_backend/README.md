@@ -1,3 +1,4 @@
+[//]: # (Copyright (c) 2024-2025 The mlkem-native project authors)
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
 # Using a custom configuration and FIPS-202 backend
